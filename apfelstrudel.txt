@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frederique's website</title>
+    <link title="Favicon" href="logoFrederique.png" rel="shortcut icon" type = "image/png"/>
+    <meta name="content language" content="en">
+    <link rel=stylesheet href="style.css" type="text/css">
+</head>
+
+<body class="standaard">
+
+    <div class="titel">
+            <header class="header-main">
+    </div>
+    <div class="header-main-logo">
+        <a href="index.html">
+            <img src="logoFrederique.png" alt="Logo of Frederique" style="float: right; margin-right: 15px; margin-top: 15px;">
+        </a>
+    </div>    
+    <div class="menu">
+        <a href="aboutme.html">About me</a>
+        <a href="hobbies.html">My hobbies</a>
+        <a href="study.html">My study</a>
+        <a href="logbook.html">Logbook</a>
+    </div>  
+    
+    <nav class="header-main-navi">
+
+    <h1>
+        Homepage
+    </h1> 
+    
+    <div style="width: 20%; float:left">
+        <a href="aboutme.html">
+            <img src="Facemap10.jpg" usemap="#image-map" width="300" height="auto">
+        </a>    
+    </div>
+
+    <div class="maintext" >    
+        Welcome to the home page of the website of and about me, Frederique Damstra. From here you can navigate</br> through the various web pages. These webpages are about me, my study and my hobbies. </br></br>If you want to navigate back to the home page, click on the logo on the right upper side!
+    </div>   
+
+    
+
+
+</body>
+
+</html>
+
